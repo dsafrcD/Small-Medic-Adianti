@@ -37,3 +37,6 @@ Cada medico visualiza sua propria carteira de paciente, e de agendamento.<hr>
 2- Criar um fluxo de caixa.<br>
 3- Criar uma API ou um simples botão para disparo de aviso ao cliente "De preferencia WhatsApp".<br>
 
+<hr>
+<center><h2>Algumas telas do sistema </h2></center>
+![ScreenShot](https://github.com/0l1v31r4/Adianti-Framework-Widget/blob/master/img.png)
