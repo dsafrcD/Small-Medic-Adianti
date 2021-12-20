@@ -1,10 +1,10 @@
-# Small-Medic-Adianti
+# Small-Medic-Adianti<br>
 Repositório teste de uma agenda simples para consultório em geral feito e Adianti e SqLite.
 <hr>
-# Instalando o Small - Medic 
+# Instalando o Small - Medic <br>
 Clonar o projeto pra seu pc, ou baixar ele e descompactar em uma pasta chamada smallmedic, dentro do seu servidor web ou local.<br>
 <hr>
-## Executar o projeto:
+## Executar o projeto:<br>
 Em seu navegador preferido e execute essa url http://127.0.0.1/smallmedic, ou em seu dominio onde foi colocado a pasta.<br>
 <hr>
 ## Fazer login Admin: <br>
@@ -14,25 +14,26 @@ Usuário: <b>Drcarrao</b> -Senha: <b>123456</b> <br>
 ## Fazer login Drmotao: <br>
 Usuário: <b>Drmotao</b> -Senha: <b>123456</b> 
 <hr>
-## Apos logar como Admin:
+## Apos logar como Admin:<br>
 Pode ir na aba Agenda geral que vera todas as agenda de todos os medico.
 Pode ir na aba Pacientes que vera todos os pacientes cadastrados no sistema.
 <br><br>
-## Apos logar com os dados do medico:
+## Apos logar com os dados do medico:<br>
 Va ate a pagina Paciente e cadastre um paciente com todos os dados ali solicitados.<br>
 Apos cadastar o pacimente va a pagina Agenda e cadastre um atendimento, selecionando todos os campos solicitados e tambem definindo as datas certa.<br>
 Depois de cadastrado o atendimento, você pode visualizar todos os atendimentos no calendario.<br>
 Depois de cadastrado um agendamento, você pode clicar 2X nele e editar o status, assi ele muda de cor e fica mais visual pra melhor entendimento.<br>
 
-## Observações Gerais:
+## Observações Gerais:<br>
 
-Cada medico visualiza sua propria carteira de paciente, e de agendamento.<hr>
+Cada medico visualiza sua propria carteira de paciente, e de agendamento.
+<hr>
 
 ## Pronto agora você ja poda sair agendando todos seus pacientes.
 
 <hr>
 
-## Atualizações Futuras:
+## Atualizações Futuras:<br>
 1- Criar relatorios detalhados com tempo de consulta, historicos, receitas e outros.<br>
 2- Criar um fluxo de caixa.<br>
 3- Criar uma API ou um simples botão para disparo de aviso ao cliente "De preferencia WhatsApp".<br>
