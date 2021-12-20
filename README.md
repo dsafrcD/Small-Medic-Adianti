@@ -7,7 +7,7 @@ Clonar o projeto pra seu pc, ou baixar ele e descompactar em uma pasta chamada s
 ## Executar o projeto:
 Em seu navegador preferido e execute essa url http://127.0.0.1/smallmedic, ou em seu dominio onde foi colocado a pasta.<br>
 <hr>
-## Fazer login Admin: 
+## Fazer login Admin: <br>
 Usuário: <b>admin</b> -Senha: <b>admin</b> <br>
 ## Fazer login Drcarrao:<br> 
 Usuário: <b>Drcarrao</b> -Senha: <b>123456</b> <br>
