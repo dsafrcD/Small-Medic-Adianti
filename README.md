@@ -10,7 +10,7 @@ Em seu navegador preferido e execute essa url http://127.0.0.1/smallmedic, ou em
 ## Fazer login Admin: 
 Usuário: <b>admin</b> -Senha: <b>admin</b> <br>
 ## Fazer login Drcarrao:<br> 
-Usuário: <b>Drcarrao</b> -Senha: <b>123456</b> 
+Usuário: <b>Drcarrao</b> -Senha: <b>123456</b> <br>
 ## Fazer login Drmotao: <br>
 Usuário: <b>Drmotao</b> -Senha: <b>123456</b> 
 <hr>
