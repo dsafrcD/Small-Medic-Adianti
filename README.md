@@ -37,5 +37,3 @@ Cada medico visualiza sua propria carteira de paciente, e de agendamento.
 1- Criar relatorios detalhados com tempo de consulta, historicos, receitas e outros.<br>
 2- Criar um fluxo de caixa.<br>
 3- Criar uma API ou um simples botão para disparo de aviso ao cliente "De preferencia WhatsApp".<br>
-
-<img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version">
